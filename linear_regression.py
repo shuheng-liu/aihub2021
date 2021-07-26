@@ -12,3 +12,6 @@ print(model.coef_)
 print(model.intercept_)
 print(f'y = {model.coef_[0]} * x + {model.intercept_}')
 
+print(“Hello, my name is 黄曦月“）
+
+
