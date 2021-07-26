@@ -11,6 +11,7 @@ model.fit(x, y)
 print(model.coef_, "sjhdjkashdjskahdjksahdas")
 print(model.intercept_)
 print(f'y = {model.coef_[0]} * x + {model.intercept_}')
+print('rah')
 print(x+y)
 
 print(“Hello, my name is 黄曦月“）
